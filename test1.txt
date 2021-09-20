@@ -1,0 +1,19 @@
+
+/* test for basic funtionality of proj 3 - should pass */
+/* test 1 */
+
+int x;
+int y;
+
+void main ( int x, int y )
+{
+	 int x ;
+         if(a <= 10)
+		d=9;
+        
+
+	z = x + y;
+	d= n * k;
+
+}
+
